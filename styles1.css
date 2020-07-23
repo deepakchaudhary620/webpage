@@ -1,0 +1,51 @@
+body{
+margin: 0;
+text-align: center;
+background-color: #ddf3f5;
+}
+.top-container{
+  padding-top: 100px;
+  position: relative;
+  background-color: #ddf3f5;
+padding-bottom: 50px;
+}
+.pro{
+  text-decoration: underline;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+h1{
+  font-size: 5.6em;
+margin-top: 0;
+font-family: 'Courgette', cursive;
+}
+p{
+font-family:'Heebo',sans-serif;
+}
+h2{
+  font-family: 'Courgette', cursive;
+}
+h3{
+  font-family:'Heebo',sans-serif;
+}
+.profile-pic{
+  width: 300px;
+  height: 300px;
+}
+.computer-img{
+  width: 300px;
+  height: 300px;
+}
+.english-pic{
+  width: 300px;
+  height: 300px;
+}
